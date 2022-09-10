@@ -3,8 +3,8 @@
     "type": "library",
     "require": {
         "facebook/php-business-sdk": "^12",
-        "illuminate/http": "5.5.*",
-        "illuminate/support": "5.5.*"
+        "illuminate/http": "~5.5",
+        "illuminate/support": "~5.5"
     },
     "license": "MIT",
     "autoload": {
